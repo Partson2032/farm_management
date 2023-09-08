@@ -1,0 +1,78 @@
+{
+  "boar": [
+    {
+      "tagNo": "2121",
+      "breed": "Large white",
+      "description": "my description",
+      "pig_color": "White",
+      "weight": "38",
+      "origin": "In-house",
+      "dob": "09/02/2021",
+      "weaning_date": "09/02/2021",
+      "mother_tagNo": "83232",
+      "father_tagNo": "5353",
+      "mother_breed": "Landrace",
+      "father_breed": "Large white",
+      "date_of_conception": "09/02/2021",
+      "parents_description": "09/02/2021",
+      "id": 1
+    },
+    {
+      "tagNo": "5",
+      "breed": "Landrance",
+      "description": "pig farming",
+      "pig_color": "Brown",
+      "weight": 42,
+      "origin": "In-house",
+      "dob": "2023-09-06",
+      "weaning_date": "2023-09-20",
+      "weaning_weight": 12,
+      "mother_tagNo": "44242",
+      "father_tagNo": "42424",
+      "mother_breed": "Landrance",
+      "father_breed": "Large White",
+      "date_of_conception": "2023-09-06",
+      "parents_description": "424242",
+      "id": 2
+    },
+    {
+      "tagNo": "21412",
+      "breed": "Local",
+      "description": "mukota",
+      "pig_color": "Black",
+      "weight": 42,
+      "origin": "Purchased",
+      "dob": "2023-09-04",
+      "weaning_date": "2023-09-06",
+      "weaning_weight": 424,
+      "mother_tagNo": "424",
+      "father_tagNo": "32",
+      "mother_breed": "Local",
+      "father_breed": "Local",
+      "date_of_conception": "2023-09-05",
+      "parents_description": "42424",
+      "id": 3
+    }
+  ],
+  "goats": [
+    {
+      "id": 1,
+      "body": "my goats project",
+      "postId": 1
+    }
+  ],
+  "procurement": [
+    {
+      "id": 2,
+      "body": "procurement",
+      "postId": 2
+    }
+  ],
+  "crops": [
+    {
+      "id": 3,
+      "body": "crops",
+      "postId": 3
+    }
+  ]
+}

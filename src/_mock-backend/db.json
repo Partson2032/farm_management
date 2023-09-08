@@ -1,0 +1,408 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "title": "My First House",
+      "streetAddress": "12 King George Dr",
+      "suburb": "Avondale",
+      "city": "Harare",
+      "country": "Zimbabwe",
+      "pictures": [
+        {
+          "id": 1,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": 1,
+          "title": "Title Deeds",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "My Second House",
+      "streetAddress": "1234 Pakanaka Dr",
+      "suburb": "Kuwadzana",
+      "city": "Harare",
+      "country": "Zimbabwe",
+      "pictures": [
+        {
+          "id": 1,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": 1,
+          "title": "Title Deeds",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "My Third House",
+      "streetAddress": "99 Panopisa Dr",
+      "suburb": "Poshto",
+      "city": "Norton",
+      "country": "Zimbabwe",
+      "pictures": [
+        {
+          "id": 1,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": 1,
+          "title": "Title Deeds",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "id": 1,
+      "firstName": "Chido",
+      "lastName": "Chemoyo",
+      "nationalIdNo": "0000000A00",
+      "passportNo": "AF9999",
+      "dob": "16-07-1993",
+      "email": "child@email.com",
+      "phoneNumber": "0780000000",
+      "sex": "M",
+      "occupation": "Basa risin basa",
+      "parentId": 1,
+      "attachments": [
+        {
+          "title": "ID Document",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Passport",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Selfie",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Who",
+      "lastName": "Knows",
+      "dob": "25-08-2004",
+      "email": "child@email.com",
+      "phoneNumber": "0780000000",
+      "nationalIdNo": "0000000A00",
+      "passportNo": "AF9999",
+      "sex": "M",
+      "occupation": "Basa risin basa",
+      "parentId": 1,
+      "attachments": [
+        {
+          "title": "ID Document",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Passport",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Selfie",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Child",
+      "lastName": "One",
+      "dob": "25-08-1991",
+      "sex": "F",
+      "email": "child@email.com",
+      "phoneNumber": "0780000000",
+      "nationalIdNo": "0000000A00",
+      "passportNo": "AF9999",
+      "occupation": "Basa risin basa",
+      "parentId": 1,
+      "attachments": [
+        {
+          "title": "ID Document",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Passport",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "title": "Selfie",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    }
+  ],
+  "motor-vehicles": [
+    {
+      "id": 1,
+      "vrn": "AAA0000",
+      "manufacturer": "VW",
+      "model": "Caravhani",
+      "year": "2016",
+      "vehicleType": "Private Car",
+      "vehicleUse": "Private Own Use",
+      "pictures": [
+        {
+          "id": 1,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": 1,
+          "title": "Picture",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "title": "Passport",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "title": "Selfie",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "vrn": "AAA0000",
+      "manufacturer": "Toyota",
+      "model": "Bhatiri",
+      "year": "2018",
+      "vehicleType": "Private Car",
+      "vehicleUse": "Private Own Use",
+      "pictures": [
+        {
+          "id": 1,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ],
+      "attachments": [
+        {
+          "id": 1,
+          "title": "Picture",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 2,
+          "title": "Passport",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        },
+        {
+          "id": 3,
+          "title": "Selfie",
+          "mediaType": "IMG",
+          "url": "https://dummyimage.com/600x400/000/fff",
+          "createdAt": "12 Feb 2023",
+          "updatedAt": null
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "transactionDate": "07 Oct 2022",
+      "description": "Health Insurance",
+      "paymentMethod": "MASTERCARD",
+      "amount": 50,
+      "currency": "USD",
+      "status": "COMPETED",
+      "proofOfPayment": "https://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+      "id": 2,
+      "transactionDate": "23 Nov 2022",
+      "description": "Motor Vehicle Insurance",
+      "paymentMethod": "VISA",
+      "amount": 200,
+      "currency": "USD",
+      "status": "PENDING",
+      "proofOfPayment": "https://www.africau.edu/images/default/sample.pdf"
+    },
+    {
+      "id": 3,
+      "transactionDate": "01 Dec 2022",
+      "description": "Funeral Cash Plan",
+      "paymentMethod": "VISA",
+      "amount": 100,
+      "currency": "USD",
+      "status": "CANCELLED",
+      "proofOfPayment": "https://www.africau.edu/images/default/sample.pdf"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "firstName": "Firstname",
+    "lastName": "Lastname",
+    "mobileNo": "0771000000",
+    "email": "email@email.com",
+    "dob": "10 May 1990",
+    "streetAddress": "1234 Pakanaka Dr",
+    "suburb": "Kuwadzana",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "occupation": "Basa risin basa",
+    "attachments": [
+      {
+        "title": "ID Document",
+        "mediaType": "IMG",
+        "url": "https://dummyimage.com/600x400/000/fff",
+        "createdAt": "12 Feb 2023",
+        "updatedAt": null
+      },
+      {
+        "title": "Passport",
+        "mediaType": "IMG",
+        "url": "https://dummyimage.com/600x400/000/fff",
+        "createdAt": "12 Feb 2023",
+        "updatedAt": null
+      },
+      {
+        "title": "Selfie",
+        "mediaType": "IMG",
+        "url": "https://dummyimage.com/600x400/000/fff",
+        "createdAt": "12 Feb 2023",
+        "updatedAt": null
+      }
+    ]
+  }
+}
