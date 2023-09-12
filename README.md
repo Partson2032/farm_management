@@ -1,206 +1,51 @@
-# [Vue Soft UI Dashboard](http://demos.fbc.co.zw/vue-soft-ui-dashboard/?ref=readme-vsud) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.fbc.co.zw/product/vue-soft-ui-dashboard&text=Check%20Vue%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#vue%20https://www.fbc.co.zw/product/vue-soft-ui-dashboard)
+ A Farm Management System (FMS) is a comprehensive software solution designed to streamline and optimize various aspects of agricultural operations and farm management. It leverages technology to assist farmers and agricultural businesses in planning, monitoring, and managing their farm activities efficiently. Here's a detailed overview of a Farm Management System:
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vue-soft-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-soft-ui-dashboard.svg)](https://github.com/creativetimofficial/vue-soft-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+**1. Core Components:
 
-![Image](https://s3.amazonaws.com/creativetim_bucket/products/591/original/vue-soft-ui-dashboard.jpg)
+Crop Management: FMS helps farmers manage their crop production, including planting schedules, fertilization, irrigation, pest control, and harvesting. It often provides tools for crop rotation planning and monitoring crop health.
 
-Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
+Livestock Management: For farms that involve livestock, FMS tracks animal health, breeding, feeding, and growth. It may also include features for managing inventory of animals and their products.
 
-**Fully Coded Components**
+Resource Allocation: Efficient allocation of resources such as labor, machinery, land, and water is crucial for optimizing farm operations. FMS helps in resource planning and allocation.
 
-Vue Soft UI Dashboard is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using SASS files and classes. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+**2. Planning and Monitoring:
 
-This Free Bootstrap 5 & VueJS 3 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
+Financial Planning: FMS assists in creating budgets, managing expenses, tracking income, and forecasting financial performance. It helps farmers make informed financial decisions.
 
-View [all components here](https://www.fbc.co.zw/learning-lab/vue/alerts/soft-ui-dashboard/).
+Inventory Management: Keeping track of inventory, including seeds, fertilizers, pesticides, equipment, and livestock, is essential for avoiding shortages and managing costs.
 
-**Documentation built by Developers**
+Crop Rotation and Rotation Planning: FMS often includes features for planning crop rotations to improve soil health and prevent disease. It helps farmers make informed decisions about which crops to plant where and when.
 
-Each element is well presented in very complex documentation.
-You can read more about the [documentation here](https://www.fbc.co.zw/learning-lab/vue/overview/soft-ui-dashboard/).
+**3. Data Analysis and Insights:
 
-**Example Pages**
+Data Collection: FMS gathers data from various sources, including weather stations, soil sensors, and manual input. This data can include weather conditions, soil moisture levels, and yield data.
 
-If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Vue Soft UI Dashboard has everything you need to quickly set up an amazing project.
+Analytics: Advanced FMS platforms provide data analytics tools that allow farmers to gain insights into their operations. They can analyze historical data to make data-driven decisions and optimize resource allocation.
 
-View [example pages here](https://demos.fbc.co.zw/vue-soft-ui-dashboard/).
+Decision Support: FMS often includes decision support systems that provide recommendations and alerts based on real-time data. For example, it may suggest when to irrigate crops based on weather forecasts and soil moisture levels.
 
-**HELPFUL LINKS**
+**4. Reporting and Documentation:
 
-- View [Github Repository](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
-- Check [FAQ Page](https://www.fbc.co.zw/faq)
+Compliance and Record-Keeping: FMS helps farmers maintain compliance with agricultural regulations and certifications. It assists in documenting practices related to sustainability and environmental stewardship.
 
-#### Special thanks
+Audit Trails: A robust FMS maintains audit trails of all farm activities and changes made to the system, ensuring transparency and accountability.
 
-During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+**5. Mobile Accessibility:
 
-- [Popper.js](https://popper.js.org/) - Kickass library used to manage poppers
+Many modern FMS solutions offer mobile apps or cloud-based access, allowing farmers to monitor and control operations remotely from smartphones or tablets.
+**6. Integration and Connectivity:
 
-Let us know your thoughts below. And good luck with development!
+FMS can often integrate with other farm management tools, such as GPS and precision agriculture systems, to improve efficiency and accuracy.
+**7. Sustainability and Environmental Management:
 
-## Table of Contents
+FMS plays a role in promoting sustainable farming practices. It helps track and reduce the environmental impact of farming operations, including water and energy usage.
+**8. Scalability:
 
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
+FMS solutions are scalable and can be adapted to the size and needs of different farms, from small family-owned farms to large commercial enterprises.
+**9. Support and Training:
 
-## Versions
+FMS vendors typically provide training and support to ensure farmers can make the most of the software and troubleshoot any issues.
+**10. Continuous Improvement:
+- Farm management systems evolve to incorporate new technologies and industry best practices. Vendors release updates to improve functionality, security, and user experience.
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.fbc.co.zw/product/vue-soft-ui-dashboard?ref=readme-vsud)
-
-| VueJS |
-| ----- |
-
-| [![Vue Soft UI Dashboard](https://s3.amazonaws.com/creativetim_bucket/products/591/thumb/vue-soft-ui-dashboard.jpg)](http://demos.fbc.co.zw/vue-soft-ui-dashboard/?ref=readme-vsud)
-
-## Demo
-
-- [Profile](https://demos.fbc.co.zw/vue-soft-ui-dashboard/#/profile?ref=readme-vsud)
-- [Sign In](https://demos.fbc.co.zw/vue-soft-ui-dashboard/#/sign-in?ref=readme-vsud)
-- [Sign Up](https://demos.fbc.co.zw/vue-soft-ui-dashboard/#/sign-up?ref=readme-vsud)
-
-[View More](https://demos.fbc.co.zw/vue-soft-ui-dashboard/#/dashboard?ref=readme-vsud).
-
-## Quick start
-
-Quick start options:
-
-- Download from [Creative Tim](https://www.fbc.co.zw/product/vue-soft-ui-dashboard?ref=readme-vsud).
-
-## Terminal Commands
-
-1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
-2. Navigate to the root ./ directory of the product and run `npm install` to install our local dependencies.
-
-## Documentation
-
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.fbc.co.zw/learning-lab/vue/overview/soft-ui-dashboard/?ref=readme-vsud).
-
-### What's included
-
-Within the download you'll find the following directories and files:
-
-```
-vue-soft-ui-dashboard
-    ├── public
-    │   ├── favicon.png
-    │   └── index.html
-    ├── src
-    │   ├── assets
-    │   │   ├── css
-    │   │   ├── fonts
-    │   │   ├── img
-    │   │   ├── js
-    │   │   └── scss
-    │   ├── components
-    │   │   ├── Icon
-    │   │   ├── SoftAlert.vue
-    │   │   ├── SoftAvatar.vue
-    │   │   ├── SoftBadge.vue
-    │   │   ├── SoftButton.vue
-    │   │   ├── SoftCheckbox.vue
-    │   │   ├── SoftInput.vue
-    │   │   ├── SoftPagination.vue
-    │   │   ├── SoftPaginationItem.vue
-    │   │   ├── SoftProgress.vue
-    │   │   ├── SoftRadio.vue
-    │   │   ├── SoftSwitch.vue
-    │   │   └── SoftTextarea.vue
-    │   ├── examples
-    │   │   ├── Cards
-    │   │   ├── Charts
-    │   │   ├── Navbars
-    │   │   ├── PageLayout
-    │   │   ├── Sidenav
-    │   │   ├── Breadcrumbs.vue
-    │   │   ├── Configurator.vue
-    │   │   └── Footer.vue
-    │   ├── router
-    │   ├── store
-    │   ├── views
-    │   │   ├── components
-    │   │   ├── Billing.vue
-    │   │   ├── Dashboard.vue
-    │   │   ├── Home.vue
-    │   │   ├── Profile.vue
-    │   │   ├── Rtl.vue
-    │   │   ├── SignIn.vue
-    │   │   ├── SignUp.vue
-    │   │   ├── Tables.vue
-    │   │   └── VirtualReality.vue
-    │   ├── App.vue
-    │   ├── main.js
-    │   └── soft-ui-dashboard.js
-    ├── .browserslistrc
-    ├── .eslintrc.js
-    ├── .gitignore
-    ├── babel.config.js
-    ├── CHANGELOG.md
-    ├── ISSUE_TEMPLATE.md
-    ├── LICENSE.md
-    ├── package.json
-    └── README.md
-```
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
-## Resources
-
-- [Live Preview](https://demos.fbc.co.zw/vue-soft-ui-dashboard/#/dashboard?ref=readme-vsud)
-- [Download Page](https://www.fbc.co.zw/product/vue-soft-ui-dashboard?ref=readme-vsud)
-- Documentation is [here](https://www.fbc.co.zw/learning-lab/vue/overview/soft-ui-dashboard/?ref=readme-vsud)
-- [License Agreement](https://www.fbc.co.zw/license?ref=readme-vsud)
-- [Support](https://www.fbc.co.zw/contact-us?ref=readme-vsud)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-soft-ui-dashboard/issues)
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Soft UI Dashboard PRO React. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Soft UI Dashboard PRO React. Check the CHANGELOG from your dashboard on our [website](https://www.fbc.co.zw/product/vue-soft-ui-dashboard-pro?ref=readme-vsud).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](https://www.fbc.co.zw/contact-us?ref=readme-vsud) instead of opening an issue.
-
-## Licensing
-
-- Copyright 2021 [Creative Tim](https://www.fbc.co.zw?ref=readme-vsud)
-- Creative Tim [license](https://www.fbc.co.zw/license?ref=readme-vsud)
-
-## Useful Links
-
-- [More products](https://www.fbc.co.zw/templates?ref=readme-vsud) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.fbc.co.zw/bootstrap-themes/free?ref=readme-vsud) from Creative Tim
-
-- [Affiliate Program](https://www.fbc.co.zw/affiliates/new?ref=readme-vsud) (earn money)
-
-##### Social Media
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
+In summary, a Farm Management System is a comprehensive software solution that empowers farmers to make informed decisions, optimize resource utilization, and improve the overall efficiency and sustainability of their agricultural operations. It is a valuable tool in modern farming, helping farmers adapt to changing conditions and meet the growing demands of the agricultural industry.
